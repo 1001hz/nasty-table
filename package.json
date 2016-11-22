@@ -1,0 +1,28 @@
+{
+  "name": "nasty-table",
+  "version": "1.0.0",
+  "description": "angular table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1001hz/nasty-table.git"
+  },
+  "keywords": [
+    "angular",
+    "table",
+    "sort",
+    "filter"
+  ],
+  "author": "John Hughes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1001hz/nasty-table/issues"
+  },
+  "peerDependencies": {
+    "angular": ">=1.5.0 <2.0"
+  },
+  "homepage": "https://github.com/1001hz/nasty-table#readme"
+}
